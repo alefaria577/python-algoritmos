@@ -3,8 +3,6 @@
 
 ## Descrição do Projeto 📝
 
-Repositório com os exercícios que resolvi em Python na minha preparação para entrevistas técnicas de Software Development Engineer. São **mais de 90 exercícios**, do básico da linguagem até estruturas de dados, algoritmos, orientação a objetos e SQL, organizados por módulo.
-
 Cada exercício é um arquivo independente (`exercicios/modulo-XX-tema/ex_X_Y_Z_titulo.py`) com:
 - **Cabeçalho** com o tópico, o nível (Easy ou Medium) e a complexidade de tempo e de espaço (Big O);
 - **A solução**;
