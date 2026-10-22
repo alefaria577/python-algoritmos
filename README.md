@@ -1,7 +1,5 @@
 # Python 🐍
 
-![tests](https://github.com/alefaria577/exercicios-python-e-algoritmos/actions/workflows/testes.yml/badge.svg)
-![Python](https://img.shields.io/badge/python-3.12-blue)
 
 ## Descrição do Projeto 📝
 
